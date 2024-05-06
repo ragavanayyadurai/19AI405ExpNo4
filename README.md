@@ -1,6 +1,6 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
-<h3>Name: Ragavendran A</h3>
-<h3>Register Numbe: 212222230114</h3>
+## Name: Ragavendran A
+## Register Number: 212222230114
 ## DATE:
 ## Aim :
 
